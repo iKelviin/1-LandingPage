@@ -1,8 +1,8 @@
-# Food & Restaurant - First LandingPage
+# Food & Restaurant - Minha primeira LandingPage
 
 ![preview](preview.png)
 
-Projeto construído no evento Next Level Week da Rocketseat.
+Projeto para estudo e aperfeiçoamento dos conceitos basicos de html, css e javascript.
 
 [Clique aqui para acessar](https://1foodrestaurant.netlify.app/)
 
